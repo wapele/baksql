@@ -1,6 +1,7 @@
 # baksql
-thinkpkhp5 sql备份还原下载
-//数据库备份
+##thinkpkhp5 sql备份还原下载
+
+>//数据库备份
     public function bak(){
        $type=input("tp");
        $name=input("name");
